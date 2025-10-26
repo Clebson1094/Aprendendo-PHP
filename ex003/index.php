@@ -13,9 +13,18 @@
         // $numero = 010;
         // echo "O valor da variável é $numero";
 
+        // $variavel = 300;
+        // var_dump($variavel);
 
-        $variavel = 300;
-        var_dump($variavel);
+        // $num = (int) 3e2; // 3 x 10(2) coerção
+        // echo "O valor é $num";
+
+        // $num = (float) "950";
+        // var_dump($num);
+
+        // $casado = true;
+        // var_dump($casado);
+        // print "O valor para casado é $casado";
     ?>
 </body>
 </html>
